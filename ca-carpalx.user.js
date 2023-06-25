@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Carpalx Layouts
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Add the Carpalx keyboard layout optimizations.
 // @author       Dave Chesser <me@dchssr.site>
 // @match        https://www.colemak.academy/
 // @icon         https://www.colemak.academy/img/favicon.webp
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/dchssr/userscripts/main/ca_carpalx.js
+// @updateURL    https://raw.githubusercontent.com/dchssr/userscripts/main/ca_carpalx.js
 // ==/UserScript==
 
 (function() {
